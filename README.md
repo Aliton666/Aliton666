@@ -62,6 +62,7 @@
 <!-- <a href="https://dev.to/kiri3914" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiri3914" height="30" width="40" /></a> -->
 <a href="" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin" style="margin-bottom: 5px;" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=1e2124" alt="discord" style="margin-bottom: 5px;" /></a>
+<!-- <a href="(ссылка на себя)" target="blank"><img src=""https://img.shields.io/badge/(НАДПИСЬ НА БЕЙДЖЕ(https://simpleicons.org/))-(ЦВЕТ ФОНА)?style=for-the-badge&logo=(НАЗВАНИЕ ЛОГОТИПА)&logoColor=(ЦВЕТ ЛОГОТИПА)"" alt="(НАЗВАНИЕ ЛОГОТИПА)" style="margin-bottom: 5px;" /></a> -->
 </p>
  
 </div>  
