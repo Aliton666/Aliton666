@@ -1,6 +1,7 @@
 <!-- <img src='https://user-images.githubusercontent.com/101027445/205465653-13816d30-0471-4a1f-aaee-71c8ff63c602.png'> -->
 <!-- <img src='https://user-images.githubusercontent.com/101027445/205465754-8d4d3f33-832d-4691-9686-22723bd83090.png'> -->
 <!-- <img src='https://user-images.githubusercontent.com/101027445/211219171-cc6e49bc-f43c-4a36-9e0d-35992da9cf8e.jpg'> -->
+<!-- <img src='https://user-images.githubusercontent.com/101027445/205465907-4b077c0e-ec2e-4294-acd7-ad33904f28e0.png'> -->
 <!-- <img src='https://user-images.githubusercontent.com/101027445/205465283-0c087adb-f7e9-4529-a84a-d074b24910a0.gif'> -->
 <!-- <img src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"> -->
 <!-- <code><a href="https://www.python.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/0a719c24a5eb8062d68bdabbd7306a0dcab0b0ce7093a8550870497456863ec9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="max-width: 100%;"></a></code>
@@ -57,10 +58,10 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/Allabergen777" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%231E77B1.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-2AABEE.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 <!-- <a href="https://dev.to/kiri3914" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiri3914" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/bektur-toktogulov-6a463b225/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://discord.gg/kiri3914" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin" style="margin-bottom: 5px;" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=1e2124" alt="discord" style="margin-bottom: 5px;" /></a>
 </p>
  
 </div>  
