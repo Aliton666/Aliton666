@@ -11,7 +11,7 @@
 </p>
  --> 
 <table border="1"><tr><td valign="top" width="33%"><div align="center">  
-<img src='https://user-images.githubusercontent.com/101027445/205465907-4b077c0e-ec2e-4294-acd7-ad33904f28e0.png' weigth="100">
+<img src='https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif' weigth="100">
     
 <h3 align="center">Languages and Tools:</h3>
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
