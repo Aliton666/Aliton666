@@ -65,6 +65,8 @@
 <a href="" target="blank"><img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="discord" style="margin-bottom: 5px;" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="discord" style="margin-bottom: 5px;" /></a>
 <!-- <a href="(ссылка на себя)" target="blank"><img src=""https://img.shields.io/badge/(НАДПИСЬ НА БЕЙДЖЕ(https://simpleicons.org/))-(ЦВЕТ ФОНА)?style=for-the-badge&logo=(НАЗВАНИЕ ЛОГОТИПА)&logoColor=(ЦВЕТ ЛОГОТИПА)"" alt="(НАЗВАНИЕ ЛОГОТИПА)" style="margin-bottom: 5px;" /></a> -->
+<h3 align="center">Video with me)))</h3>
+<a href="(ссылка на себя)" target="blank"><img src="https://img.shields.io/badge/onlyfans-00AFF0?style=for-the-badge&logo=onlyfans&logoColor=white" alt="onlyfans" style="margin-bottom: 5px;" /></a>
 </p>
  
 </div>  
