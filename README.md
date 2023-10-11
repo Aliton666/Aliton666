@@ -58,7 +58,7 @@
 <a href="https://github.com/Allabergen666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/Allabergen777" target="_blank">
+<a href="https://t.me/Allabergen666" target="_blank">
 <img src=https://img.shields.io/badge/telegram-2AABEE.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 <!-- <a href="https://dev.to/kiri3914" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiri3914" height="30" width="40" /></a> -->
 <a href="" target="blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin" style="margin-bottom: 5px;" /></a>
